@@ -1,5 +1,6 @@
 # stringfuscator-cpp 🚀
 
+stringfuscator uses a simple AES encryption/decryption, wrapped in a nice class.
 
 # Setup
 * Compile [CryptoPP](https://github.com/weidai11/cryptopp)
